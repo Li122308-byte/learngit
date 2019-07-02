@@ -6,3 +6,4 @@ there is another line
 two
 one
 three
+four
